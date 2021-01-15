@@ -1,8 +1,11 @@
 spring:
   application:
     name : bitKub-uat
-  bitkub:
-    ticker: https://api.bitkub.com/api/market/ticker
+  
+  
+bitkub:
+    ticker: 
+       url: https://api.bitkub.com/api/market/ticker
 
 server:
   port: 8083
