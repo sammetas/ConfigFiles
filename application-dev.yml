@@ -1,0 +1,11 @@
+spring:
+      application:
+              name: ConfigServer
+              message: This message is from UAT GIT profile!!!
+              
+
+              
+
+server:
+       port: 8888
+
