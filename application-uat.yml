@@ -1,7 +1,7 @@
 spring:
       application:
               name: ConfigServer
-              message: This message is from UAT GIT profile
+              message: This message is from UAT GIT profile!!!
               
 
               
