@@ -1,0 +1,14 @@
+spring:
+  application:
+    name : bitKub-uat
+    message: This message from Cloud !!!!
+  
+  
+bitkub:
+    ticker: 
+       url: https://api.bitkub.com/api/market/ticker
+
+server:
+  port: 8083
+management.endpoints.web.exposure.include: "*" 
+
