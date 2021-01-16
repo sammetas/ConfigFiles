@@ -1,7 +1,7 @@
 spring:
   application:
     name : bitKub-uat
-    message: This message from Cloud !!!!
+    message: This message from Cloud !!!!And
   
   
 bitkub:
